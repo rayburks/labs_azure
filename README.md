@@ -1,1 +1,1 @@
-# Share Azure Knowledge
+# Shared Azure Knowledge
